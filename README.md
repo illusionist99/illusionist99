@@ -2,7 +2,7 @@
 
 <!--
 **illusionist99/illusionist99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Top Langs](https://yyyypp-gew4g8aji-illusionist99.vercel.app/api/top-langs/?username=illusionist99&hide_progress=true)
+![Top Langs](https://yyyypp.vercel.app/api/top-langs/?username=illusionist99&hide_progress=true)
 
 Here are some ideas to get you started:
 - 📫 How to reach me: 
