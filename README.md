@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: 
 <!--
 **illusionist99/illusionist99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   [![malaoui's 42 stats](https://badge42.vercel.app/api/v2/cljrbv7rc002108mcwxuhiyyy/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illusionist99&show_icons=true&theme=transparent)
