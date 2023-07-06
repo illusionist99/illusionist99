@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
   
   ![illusionist99's GitHub stats](https://github-readme-stats.vercel.app/api?username=illusionist99&show_icons=true&theme=transparent)
-  ![Top Langs](https://yyyypp-rgsb-git-main-illusionist99.vercel.app/api/top-langs/?username=illusionist99&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
