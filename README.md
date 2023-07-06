@@ -17,5 +17,4 @@ Here are some ideas to get you started:
   [![malaoui's 42 stats](https://badge42.vercel.app/api/v2/cljrbv7rc002108mcwxuhiyyy/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
   
-  ![illusionist99's GitHub stats](https://github-readme-stats.vercel.app/api?username=illusionist99&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illusionist99&hide_progress=true&token=E8R7D5D5858)
+[![illusionist's GitHub stats](https://github-readme-stats.vercel.app/api?username=illusionist99)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illusionist99&hide_progress=true&token=E8R7D5D5858)
