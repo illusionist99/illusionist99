@@ -45,5 +45,5 @@ Feel free to explore more of my work in the repositories section.
 
 ## 🖇️ Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-alaoui-dev/)
-- GitHub: [Your GitHub Profile](https://github.com/illusionist99)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-alaoui-dev/)
+- GitHub: [My GitHub Profile](https://github.com/illusionist99)
