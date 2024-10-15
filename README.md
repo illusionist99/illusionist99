@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Alaoui! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet)](https://github.com/illusionist99)
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/illusionist99)
+[![Profile Views](https://komarev.com/ghpvc/?username=illusionist99&color=blueviolet)](https://github.com/illusionist99)
+[![GitHub followers](https://img.shields.io/github/followers/illusionist99?label=Follow&style=social)](https://github.com/illusionist99)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaoui-dev/)
 
 [![malaoui's 42 stats](https://badge.mediaplus.ma/greenbinary/malaoui)](https://github.com/oakoudad/badge42)
