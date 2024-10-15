@@ -4,6 +4,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/illusionist99)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaoui-dev/)
 
+<img src="https://badge.mediaplus.ma/kettlebells/malaoui" alt="malaoui's 42 stats" />
+
 ## 🚀 About Me
 
 I’m a **Junior Backend Developer** working at **UM6P** in Benguerir. My main focus is developing scalable backend systems with **Python Pyramid** and **ArangoDB**. I am passionate about designing efficient data models and building robust APIs.
