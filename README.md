@@ -37,8 +37,9 @@ Feel free to explore more of my work in the repositories section.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=illusionist99&show_icons=true&hide_border=true&theme=radical&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html&layout=compact&theme=radical)
 
 ## 🖇️ Connect with Me
 
