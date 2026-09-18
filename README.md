@@ -47,9 +47,9 @@ class MohamedAlaoui:
     motto    = "Eternal vigilance."
 ```
 
-I build the parts of a system where correctness is non-negotiable — data models, access control, and APIs that handle sensitive patient information — and I care about them staying reliable long after launch. My foundation is low-level and systems-heavy (C/C++, Unix internals, networking), and independent security research keeps me honest about data integrity, edge cases, and how systems *actually* fail under pressure.
+I work on the parts of a system that have to be right: data models, access control, and the APIs that handle patient data. I like building things that stay reliable long after they ship. My background is fairly low-level (C/C++, Unix internals, networking), and doing security research on the side has made me a lot more careful about data integrity, edge cases, and the ways systems actually break.
 
-- 🏥 **Currently building:** a greenfield **Hospital Information System** — FHIR R4 modelling, role-based access control, audit logging over PHI, containerised on Kubernetes
+- 🏥 **Currently building:** a greenfield **Hospital Information System**: FHIR R4 modelling, role-based access control, audit logging over PHI, containerised on Kubernetes
 - 🔐 **Currently researching:** API business-logic flaws and mobile binary analysis (Frida · MobSF · Jadx)
 - 📚 **Currently learning:** cryptographic primitives (`ft_ssl` — MD5/SHA from scratch) · deepening cloud-native infrastructure
 - 💬 **Ask me about:** FHIR & healthcare interoperability, API security, Kubernetes, binary exploitation, C/C++ systems programming
@@ -148,12 +148,12 @@ I build the parts of a system where correctness is non-negotiable — data model
 
 </div>
 
-**Independent researcher on [HackerOne](https://hackerone.com/illusionsit99)** — API instrumentation, traffic manipulation, and the business-logic failure modes that automated scanners walk right past.
+**Independent researcher on [HackerOne](https://hackerone.com/illusionsit99).** Mostly API work: instrumenting traffic, breaking business logic, and finding the bugs automated scanners don't catch.
 
 **Low-level exploitation track** — `rainfall` · `override` · `boot2root` · `snow-crash` · `UnleashTheBox`  
-Exploited SUID ELF binaries on modern 64-bit glibc with **every mitigation enabled** (NX, ASLR, stack canaries, full RELRO, PIE): memory-layout analysis, privilege-escalation chains, jail escapes, and side-channel techniques on deliberately vulnerable systems.
+Exploited SUID ELF binaries on modern 64-bit glibc with every mitigation turned on (NX, ASLR, stack canaries, full RELRO, PIE): memory layout analysis, privilege escalation chains, jail escapes, and side channels, all on deliberately vulnerable systems.
+
 <br/>
-</br>
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 
@@ -164,7 +164,6 @@ Exploited SUID ELF binaries on modern 64-bit glibc with **every mitigation enabl
 </div>
 
 <!-- CONFIRM before adding: any specific ranking / CVSS claim — include only where you can point to the disclosed report. Never post details of an undisclosed bug. -->
-
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
